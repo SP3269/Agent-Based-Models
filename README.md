@@ -3,6 +3,7 @@
 This is a collection of my Netlogo code and related resources
 
 * `OrgComms.nlogo` - a model of communications/information dissemination in an organization. Loads organizational structure graph from CSV file. 
+* `ABM_UNCONF_2018.pptx` - my presentation on agent-based modeling at ANZ UN/CONF 2018
 
 ![alt text][model]
 
