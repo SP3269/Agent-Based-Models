@@ -12,3 +12,4 @@ This is a collection of my Netlogo code and related resources
 * `Lorenz3D.nlogo3d` - Lorenz System model (Netlogo 3D)
 * `Logistic._Bifurcations.nlogo` - Using agents to generate bifurcation diagram of the [logistic map](https://en.m.wikipedia.org/wiki/Logistic_map)
 * `PMandelbrot.nlogo` - Using patches as agents to calculate Mandelbrot set
+* `Rain.nlogo` - Rain model. Are you soaking slower if you run under the rain?
